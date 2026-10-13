@@ -19,7 +19,7 @@
 </script>
 
 <div
-  bind:this={containerRef}
-  data-engine="zikojs"
-  style="display: contents;"
+  bind:this = {containerRef}
+  data-engine = "zikojs"
+  style = "display: contents;"
 ></div>
