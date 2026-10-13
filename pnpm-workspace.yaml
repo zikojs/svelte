@@ -1,0 +1,7 @@
+packages:
+  - "packages/*"
+  - "demos/*"
+
+catalog:
+  vite: "^8.2.2"
+  ziko: 2.0.0-beta.17.1
